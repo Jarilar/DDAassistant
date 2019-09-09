@@ -1,0 +1,10 @@
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\bin\Debug\DDAassistant.exe.config
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\bin\Debug\DDAassistant.exe
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\bin\Debug\DDAassistant.pdb
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\obj\Debug\DDAassistant.Form1.resources
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\obj\Debug\DDAassistant.Properties.Resources.resources
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\obj\Debug\DDAassistant.csproj.GenerateResource.cache
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\obj\Debug\DDAassistant.csproj.CoreCompileInputs.cache
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\obj\Debug\DDAassistant.exe
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\obj\Debug\DDAassistant.pdb
+D:\Calculation_data\DDA_calculate\Model\DDAassistant\DDAassistant\obj\Debug\DDAassistant.csprojAssemblyReference.cache
